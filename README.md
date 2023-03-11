@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nurzamal Islam
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning SpringBoot
+- 👀 I’m interested in Software Development, Backend using Java Springboot and Frontend using Angular
+- 🌱 Currently, I'm learning how to build and deploy serverless applications using AWS Lambda and API Gateway..Also ReactJs
 - 📫 Reach me at: n.zaman98@gmail.com
 
 <!---
